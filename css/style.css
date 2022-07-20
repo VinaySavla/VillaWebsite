@@ -246,9 +246,9 @@ header .navbar-fixed-top.top-nav-collapse .navbar-brand {
         text-transform: uppercase;
         width: 100%
     }
-    header .navbar.navbar-default.navbar-fixed-top {
+    /* header .navbar.navbar-default.navbar-fixed-top {
         background-color: #91AA9D
-    }
+    } */
     .navbar-collapse {
         box-shadow: none
     }
